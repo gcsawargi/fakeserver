@@ -24,8 +24,8 @@
       "featured": false,
       "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
       "coordinate": {
-          "latitude": 25.109611,
-          "longitude": 55.165274
+          "latitude": 25.133344,
+          "longitude": 55.188954
       }
     },
     {
@@ -38,8 +38,8 @@
       "featured": false,
       "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
       "coordinate": {
-          "latitude": 25.109611,
-          "longitude": 55.165274
+          "latitude": 25.093767,
+          "longitude": 55.175407
       }
     },
     {
@@ -52,8 +52,8 @@
       "featured": false,
       "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms",
       "coordinate": {
-          "latitude": 25.109611,
-          "longitude": 55.165274
+          "latitude": 25.141876,
+          "longitude": 55.191224
       }
     }
   ],
