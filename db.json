@@ -2,7 +2,7 @@
   "deals": [
     {
       "id": 0,
-      "name": "Jumeirah - 2 for 1",
+      "name": "In5 Tech",
       "image": "images/uthappizza.png",
       "category": "deal",
       "label": "Hot",
@@ -16,9 +16,9 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
+      "name": "Dubai Holding",
       "image": "images/zucchipakoda.png",
-      "category": "appetizer",
+      "category": "deal",
       "label": "",
       "price": "1.99",
       "featured": false,
@@ -30,9 +30,9 @@
     },
     {
       "id": 2,
-      "name": "Vadonut",
+      "name": "TECOM",
       "image": "images/vadonut.png",
-      "category": "appetizer",
+      "category": "offer",
       "label": "New",
       "price": "1.99",
       "featured": false,
@@ -44,9 +44,9 @@
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "Jumeriah Beach Hotel",
       "image": "images/elaicheesecake.png",
-      "category": "dessert",
+      "category": "event",
       "label": "",
       "price": "2.99",
       "featured": false,
@@ -55,7 +55,91 @@
           "latitude": 25.141876,
           "longitude": 55.191224
       }
-    }
+    },
+    {
+        "id": 4,
+        "name": "Meraas",
+        "image": "images/vadonut.png",
+        "category": "offer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+        "coordinate": {
+            "latitude": 25.216658,
+            "longitude": 55.274940
+        }
+    },
+    {
+        "id": 5,
+        "name": "Dubai Properties",
+        "image": "images/vadonut.png",
+        "category": "offer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+        "coordinate": {
+            "latitude": 25.188249,
+            "longitude": 55.263484
+        }
+    },
+    {
+        "id": 6,
+        "name": "Burj Khalifa",
+        "image": "images/vadonut.png",
+        "category": "offer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+        "coordinate": {
+            "latitude": 25.197411,
+            "longitude": 55.274333
+        }
+    },
+    {
+        "id": 7,
+        "name": "Vadonut",
+        "image": "images/vadonut.png",
+        "category": "offer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+        "coordinate": {
+            "latitude": 25.093767,
+            "longitude": 55.175407
+        }
+    },
+    {
+        "id": 8,
+        "name": "Burj Al Arab",
+        "image": "images/vadonut.png",
+        "category": "offer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+        "coordinate": {
+            "latitude": 25.141318,
+            "longitude": 55.185361
+        }
+    },
+    {
+        "id": 9,
+        "name": "The Palm Juemirah",
+        "image": "images/vadonut.png",
+        "category": "offer",
+        "label": "New",
+        "price": "1.99",
+        "featured": false,
+        "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+        "coordinate": {
+            "latitude": 25.122551,
+            "longitude": 55.132003
+        }
+    },
   ],
   "comments": [
     {
