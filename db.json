@@ -99,7 +99,7 @@
     },
     {
         "id": 7,
-        "name": "Vadonut",
+        "name": "Dubai Asset Management",
         "image": "images/vadonut.png",
         "category": "offer",
         "label": "New",
@@ -107,8 +107,8 @@
         "featured": false,
         "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
         "coordinate": {
-            "latitude": 25.093767,
-            "longitude": 55.175407
+            "latitude": 25.191455,
+            "longitude": 55.265014
         }
     },
     {
